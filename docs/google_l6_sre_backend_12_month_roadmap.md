@@ -325,3 +325,17 @@
 2. 1 runbook/postmortem
 3. 1 measurable project improvement
 4. 1 mock interview scorecard set
+
+---
+
+## 10) Folderized Topic Library (Easy Language + Capstone per Topic)
+
+A complete folder-based learning library was added at:
+
+- `docs/google_l6_roadmap/README.md`
+
+It includes:
+- One folder per major heading (A-L domains)
+- Separate subfolders for each subtopic
+- Easy layman-language explanation in each topic README
+- A **Capstone Project (Knowledge Test)** section at the end of every topic
