@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Health Monitor</string>
+    <string name="monitor_running">Health monitor is running</string>
+    <string name="start_monitoring">Start Monitoring</string>
+    <string name="status_idle">Status: Idle</string>
+    <string name="status_running">Status: Running (foreground service)</string>
+</resources>
